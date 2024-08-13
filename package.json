@@ -1,0 +1,25 @@
+{
+  "name": "atividade-3---teste-automatizado-i",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "express": "^4.19.2",
+    "jest": "^29.7.0",
+    "mocha": "^10.7.3",
+    "supertest": "^7.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.3",
+    "@babel/register": "^7.24.6"
+  }
+}
